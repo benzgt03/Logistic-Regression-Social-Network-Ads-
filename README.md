@@ -1,3 +1,3 @@
 # Logistic-Regression-Social-Network-Ads-
-Pratice for Logistic Regression <b>
+Pratice for Logistic Regression <b>  
 Built by PyCharm
