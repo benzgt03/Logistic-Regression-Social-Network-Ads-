@@ -2,3 +2,4 @@
 Pratice for Logistic Regression <b>  
 Built by PyCharm
 
+![alt text](https://ibb.co/yY4wFFD)
